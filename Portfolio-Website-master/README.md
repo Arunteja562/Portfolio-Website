@@ -90,16 +90,16 @@ List your professional or academic achievements here. Example entries:
 
 Provide your education background. Replace the example below with your details.
 
-- Degree: Bachelor of Science in Computer Science
-- Institution: [Your University Name]
-- Years: 20XX - 20XX
-- Relevant coursework: Web Development, Data Structures, Databases
+- Pg: Master of Computer Application (Regular)
+- Institution: [Aurora Higher Education and Research Academy,(Deemed to be University) Hyderabad, Telangana, India ]
+- Years: 2023 - 2025
+- Relevant coursework: Web Development, Graphic Designer, Databases
 
 ## Career / Experience
 
 Summarize your professional experience or internships here. Example:
 
-- Frontend Developer (Intern) — Company Name (Month Year - Month Year)
+- Python Developer (Intern) — Company Name (MVG Innovation)
     - Worked on building responsive UI components and optimizing page performance.
     - Collaborated with designers to implement accessible interfaces.
 
@@ -109,7 +109,6 @@ Highlight a few projects with short descriptions and links if available. Example
 
 - Portfolio Website — Responsive portfolio built with HTML, CSS and JS. (This repo)
 - Project Name — Short description, tech used, and link (if deployed or on GitHub).
-- Project Name — Short description, tech used, and link.
 
 ## Contact
 
